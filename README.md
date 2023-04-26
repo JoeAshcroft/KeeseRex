@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**KeeseRex/KeeseRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...  my life
 - 🌱 I’m currently learning ...  JS, Ubuntu and using GitHub
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... well, that is a different matter entirely
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... have 4 cats and played bass for 22 years
--->
+
